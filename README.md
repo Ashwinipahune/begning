@@ -1,3 +1,3 @@
 # begning
-Author - Ashwini pahune
+Author - Ashwini pahune.
 3rd yr of BE start
